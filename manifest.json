@@ -25,21 +25,25 @@
   ]
 }
 {
-  "barva_pozadí": "#d22f2f",
+  "barva_pozadí": "#db1414",
   "adresář": "automatický",
-  „zobrazení“: „celá obrazovka“,
-  "jméno": "patrikobr700-ux.github",
-  „orientace“: „přirozená“,
+  „display“: „samostatný“,
+  "name": "patrikobr700-ux.github rybářská mapa",
+  „orientace“: „libovolná“,
   "rozsah": "/",
   „short_name“: „patrikobr700-ux.github“,
-  „počáteční_url“: „/https://github.com/patrikobr700-ux/Pwa/actions/runs/20092928420/job/57644510790“,
-  "barva_témy": "#090ed8",
-  "id": "Rybaření",
+  „počáteční_url“: „/https://patrikobr700-ux.github.io/Pwa/“,
+  "barva_témy": "#2615f9",
+  "id": "Rybář",
   "popis": "Rybolov ryb",
   "jazyk": "cs",
   „display_override“: [
     „prohlížeč“,
-    "minimal-ui",
+    „samostatný“,
     „překrytí ovládacích prvků okna“
+  ],
+  „prefer_related_applications“: true,
+  „kategorie“: [
+    "sportovní"
   ]
 }
